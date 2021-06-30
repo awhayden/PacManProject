@@ -8,4 +8,8 @@ Why do bad things happen?
 ## Wait, what is this actually?
 This is a README file. How informative!
 
-## Installation
+## Can you actually code?
+No.
+
+## Are you learning?
+Sort of.
