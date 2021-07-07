@@ -10,7 +10,7 @@ This program can be used to illustrate our impending doom. While Pac-Man energet
 
 Pac-Man's return to normalcy at the left-most bounds of the window symbolizes how connection with others and mindfulness can erode even the thickest walls that we surround ourselves with.
 
-However, time waits for no Pac-(Wo)Man; thusly, his inevitable demise can not be escaped. Until I learn how to code power pellets, of course.
+However, time waits for no Pac-Man; thusly, his inevitable demise can not be escaped. Until I learn how to code power pellets, of course.
 
 ## Wait, what is this actually?
 This is a README file. How informative!
